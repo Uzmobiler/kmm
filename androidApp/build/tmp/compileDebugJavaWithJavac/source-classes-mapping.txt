@@ -1,0 +1,2 @@
+uz/pdp/kmmapp/androidApp/BuildConfig.java
+ uz.pdp.kmmapp.androidApp.BuildConfig

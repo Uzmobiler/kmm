@@ -1,0 +1,2 @@
+uz/pdp/kmmapp/shared/BuildConfig.java
+ uz.pdp.kmmapp.shared.BuildConfig
